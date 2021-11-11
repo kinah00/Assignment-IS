@@ -1,8 +1,12 @@
-##  GAME TITLE              :   TURTLEWAY!                                                                                  ##
-LECTURER'S NAME             :   ASSOC. PROF. TS. DR. AMELIA RITAHANI BINTI ISMAIL                                           
-DESCRIPTION                 :   THIS GAME IS ABOUT FINDING THE RIGHT PATH TO REACH THE GOAL.                                                        
-USER CAN ENTER ONE NUMBER BETWEEN 1 UNTIL 5 TO CHOOSE MAZE AND                             
-HE MAZE WILL BE DISPLAYED WITH THE PATH TAKEN TO REACH GOAL. 
+##  GAME TITLE                :   TURTLEWAY!                                                                                  ##
+
+STUDENTS' NAMES AND MATRICNO. :   NURUL HANIS BINTI MOHD DHUZUKI (1913364)                                                   
+                                  SAKINAH BINTI SHAMSUDDIN       (1911912)                                                   
+SECTION                       :   2                                        
+LECTURER'S NAME               :   ASSOC. PROF. TS. DR. AMELIA RITAHANI BINTI ISMAIL                                           
+DESCRIPTION                   :   THIS GAME IS ABOUT FINDING THE RIGHT PATH TO REACH THE GOAL.                                                        
+                                  USER CAN ENTER ONE NUMBER BETWEEN 1 UNTIL 5 TO CHOOSE MAZE AND                             
+                                  HE MAZE WILL BE DISPLAYED WITH THE PATH TAKEN TO REACH GOAL. 
 
 
 Background 
